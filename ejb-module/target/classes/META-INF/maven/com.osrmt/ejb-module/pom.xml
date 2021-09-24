@@ -1,0 +1,45 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.osrmt</groupId>
+    <artifactId>osrmt</artifactId>
+    <version>1.9-SNAPSHOT</version>
+  </parent>
+  <artifactId>ejb-module</artifactId>
+  <packaging>jar</packaging>
+  
+  <properties>
+  	<appclient.target>${basedir}/../appClient-module/target</appclient.target>
+  	<build.resources>${basedir}/../build-resources</build.resources>
+  </properties>
+  
+  <build>
+  	<plugins>
+  	    <plugin>
+		    <groupId>org.apache.maven.plugins</groupId>
+		    <artifactId>maven-jar-plugin</artifactId>
+		    <configuration>
+		        <archive>
+		            <manifest>
+		                <addClasspath>true</addClasspath>
+		            </manifest>
+		        </archive>
+		    </configuration>
+		</plugin>
+  	</plugins>
+  </build>
+  
+  <dependencies>
+  
+    <dependency>
+	    <groupId>com.osrmt</groupId>
+	    <artifactId>appClient-module</artifactId>
+	    <version>${osrmt.veriosn}</version>
+	    <type>jar</type>
+	    <scope>system</scope>
+	    <systemPath>${appclient.target}/appClient-module-${osrmt.veriosn}.jar</systemPath>
+	</dependency>
+  
+  </dependencies>
+  
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/home/mgad/workspace/osrmt/target/bin"/>
+  <copy todir="/home/mgad/workspace/osrmt/target/bin">
+    <fileset dir="/home/mgad/workspace/osrmt/build-resources/appclient/resources"/>
+    <fileset dir="/home/mgad/workspace/osrmt/build-resources/common/resources"/>
+    <fileset includes="**/*" dir="/home/mgad/workspace/osrmt/build-resources/connections"/>
+    <fileset dir="/home/mgad/workspace/osrmt/build-resources/db"/>
+    <fileset dir="/home/mgad/workspace/osrmt/build-resources/db-init/common"/>
+    <fileset dir="/home/mgad/workspace/osrmt/build-resources/db-init/app-client"/>
+    <fileset includes="*.jar" dir="/home/mgad/workspace/osrmt/target/"/>
+  </copy>
+</target>
+</project>

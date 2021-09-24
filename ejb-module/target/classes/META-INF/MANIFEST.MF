@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Built-By: mgad
+Class-Path: jbossall-client-4.2.2.GA.jar animation-1.4.3.jar jgoodies-
+ common-1.6.0.jar forms-1.2.1.jar jgoodies-looks-2.7.0.jar antlr4-runt
+ ime-4.9.2.jar spring-binding-1.0.3.jar ognl-2.6.9.jar spring-beans-2.
+ 0.4.jar spring-context-2.0.4.jar aopalliance-1.0.jar spring-core-2.0.
+ 4.jar castor_2.13-0.1.3.jar sourcecode_2.13-0.2.1.jar commons-beanuti
+ ls-1.9.4.jar commons-collections-3.1.jar commons-dbcp-1.2.1.jar commo
+ ns-digester-2.1.jar commons-fileupload-1.4.jar commons-io-1.3.1.jar c
+ ommons-lang-2.6.jar commons-logging-1.2.jar commons-pool-1.3.jar comm
+ ons-validator-1.1.4.jar itext-1.4.jar jackcess-2.1.11.jar jasperrepor
+ ts-1.3.1.jar jcommon-1.0.16.jar jfreechart-1.0.1.jar jdtcore-3.2.0.v_
+ 658.jar jdom-1.1.jar jgraph-5.13.0.0.jar js-1.7R1.jar jtds-1.2.jar lo
+ g4j-1.2.8.jar mail-1.5.0-b01.jar activation-1.1.jar mssql-jdbc-6.4.0.
+ jre7.jar myfaces-all-1.1.1.jar commons-codec-1.3.jar commons-el-1.0.j
+ ar oro-2.0.8.jar jstl-1.1.2.jar mysql-connector-java-5.1.47.jar postg
+ resql-8.1-407.jdbc3.jar struts-1.2.9.jar antlr-2.7.2.jar ucanaccess-4
+ .0.4.jar validation-1.0.3.jar validation-api-1.1.0.Final.jar jbanking
+ -1.0.jar junit-4.12.jar hamcrest-core-1.3.jar xalan-2.6.0.jar xercesI
+ mpl-2.7.1.jar xml-apis-1.3.02.jar
+Build-Jdk: 1.8.0_292
+Created-By: Maven Integration for Eclipse
+

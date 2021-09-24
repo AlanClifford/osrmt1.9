@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Built-By: mgad
+Class-Path: "/home/mgad/workspace/osrmt/target/bin/libs/"/jbossall-cli
+ ent-4.2.2.GA.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/animat
+ ion-1.4.3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jgoodies-
+ common-1.6.0.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/forms-
+ 1.2.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jgoodies-look
+ s-2.7.0.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/antlr4-runt
+ ime-4.9.2.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/spring-bi
+ nding-1.0.3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/ognl-2.
+ 6.9.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/spring-beans-2.
+ 0.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/spring-context-
+ 2.0.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/aopalliance-1
+ .0.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/spring-core-2.0.
+ 4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/castor_2.13-0.1.3
+ .jar "/home/mgad/workspace/osrmt/target/bin/libs/"/sourcecode_2.13-0.
+ 2.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commons-beanuti
+ ls-1.6.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commons-coll
+ ections-3.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commons
+ -dbcp-1.2.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commons
+ -digester-1.7.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commo
+ ns-fileupload-1.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/c
+ ommons-io-1.3.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/com
+ mons-lang-2.6.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/commo
+ ns-logging-1.1.3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/co
+ mmons-pool-1.3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/comm
+ ons-validator-1.1.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"
+ /itext-1.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jackcess
+ -2.1.11.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jasperrepor
+ ts-1.3.1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jcommon-1.
+ 0.16.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jfreechart-1.0
+ .1.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jdtcore-3.2.0.v_
+ 658.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jdom-1.1.jar "/
+ home/mgad/workspace/osrmt/target/bin/libs/"/jgraph-5.13.0.0.jar "/hom
+ e/mgad/workspace/osrmt/target/bin/libs/"/js-1.7R1.jar "/home/mgad/wor
+ kspace/osrmt/target/bin/libs/"/jtds-1.2.jar "/home/mgad/workspace/osr
+ mt/target/bin/libs/"/log4j-1.2.8.jar "/home/mgad/workspace/osrmt/targ
+ et/bin/libs/"/mail-1.5.0-b01.jar "/home/mgad/workspace/osrmt/target/b
+ in/libs/"/activation-1.1.jar "/home/mgad/workspace/osrmt/target/bin/l
+ ibs/"/mssql-jdbc-6.4.0.jre7.jar "/home/mgad/workspace/osrmt/target/bi
+ n/libs/"/myfaces-all-1.1.1.jar "/home/mgad/workspace/osrmt/target/bin
+ /libs/"/commons-codec-1.3.jar "/home/mgad/workspace/osrmt/target/bin/
+ libs/"/commons-el-1.0.jar "/home/mgad/workspace/osrmt/target/bin/libs
+ /"/oro-2.0.8.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jstl-1
+ .1.2.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/mysql-connecto
+ r-java-5.1.47.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/postg
+ resql-8.1-407.jdbc3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"
+ /struts-1.2.9.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/antlr
+ -2.7.2.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/ucanaccess-4
+ .0.4.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/validation-1.0
+ .3.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/validation-api-1
+ .1.0.Final.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/jbanking
+ -1.0.jar "/home/mgad/workspace/osrmt/target/bin/libs/"/junit-4.12.jar
+  "/home/mgad/workspace/osrmt/target/bin/libs/"/hamcrest-core-1.3.jar 
+ "/home/mgad/workspace/osrmt/target/bin/libs/"/xalan-2.6.0.jar "/home/
+ mgad/workspace/osrmt/target/bin/libs/"/xercesImpl-2.7.1.jar "/home/mg
+ ad/workspace/osrmt/target/bin/libs/"/xml-apis-1.3.02.jar
+Build-Jdk: 1.8.0_292
+Created-By: Maven Integration for Eclipse
+Main-Class: com.osrmt.appclient.reqmanager.RequirementManagerControlle
+ r
+
